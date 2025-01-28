@@ -1,16 +1,13 @@
-# currency_example
+# Panduan Belajar Format Angka di Flutter
 
-A new Flutter project.
+## Deskripsi
+Proyek ini adalah aplikasi Flutter sederhana yang menunjukkan cara memformat angka dalam berbagai gaya, termasuk format normal, mata uang, dan mata uang ringkas (compact currency). Proyek ini menggunakan library **intl** untuk memformat angka dan **google_fonts** untuk styling teks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Fitur
+1. **Format Normal:** Menampilkan angka apa adanya.
+2. **Format Mata Uang:** Menampilkan angka dengan format mata uang lokal (contoh: Rp1.000.000).
+3. **Format Mata Uang Ringkas:** Menampilkan angka dalam format ringkas (contoh: 1.35M).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
